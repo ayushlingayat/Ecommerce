@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I am Ayush Shyam Lingayat</h1>
-<h3 align="center">A passionate Front End Developer from India</h3>
+<h1 align="center">Hi I am Ayush Shyam Lingayat</h1>
+<h3 align="center">A Front End Developer from India</h3>
 
 
 
